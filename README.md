@@ -1,2 +1,2 @@
-# aaraar-wp-startertheme
-aaraar's Starter Theme for WordPress (Webpack)
+# aaraar's StarterTheme
+**Built with webpack, based on HTML5blank-theme (html5blank.com)**
